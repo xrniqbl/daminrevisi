@@ -2,13 +2,6 @@ const tableBody = document.getElementById("data-table");
 const searchInput = document.getElementById("search");
 const sortSelect = document.getElementById("sort");
 
-// Cek status login
-const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
-if (!isLoggedIn) {
-    alert("Anda harus login untuk mengakses halaman ini.");
-    window.location.href = "./login.html"; // Arahkan ke halaman login jika belum login
-}
-
 // Fungsi untuk render data
 function renderData(data) {
     tableBody.innerHTML = ""; // Kosongkan tabel
