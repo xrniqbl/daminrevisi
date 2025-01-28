@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistik Atlet</title>
+    <link rel="stylesheet" href="statistik.css">
+</head>
+<body>
+    <header>
+        <h1>Statistik Atlet</h1>
+        <p>
+            Halaman ini digunakan untuk membantu pelatih atau pencari atlet dalam menganalisis performa atlet berdasarkan data yang dimasukkan. 
+            Anda dapat memuat data atlet, memilih atlet tertentu, memasukkan jumlah kemenangan, dan melihat hasilnya dalam bentuk tabel dan grafik.
+        </p>
+    </header>
+
+    <main>
+        <!-- Tombol Mulai Statistik -->
+        <section class="form-section">
+            <h2>Mulai Statistik</h2>
+            <p>
+                Klik tombol di bawah ini untuk memuat data atlet dari basis data kami. Setelah data dimuat, Anda dapat memasukkan jumlah kemenangan untuk setiap atlet.
+            </p>
+            <button id="start-statistics">Mulai Statistik</button>
+        </section>
+
+        <!-- Input Data Kemenangan -->
+        <section class="form-section" style="display: none;" id="form-input-section">
+            <h2>Input Jumlah Kemenangan</h2>
+            <p>
+                Masukkan jumlah kemenangan untuk atlet yang dipilih dari daftar. Data yang dimasukkan akan ditampilkan dalam tabel dan grafik.
+            </p>
+            <label for="atlet">Nama Atlet:</label>
+            <select id="atlet">
+                <!-- Akan diisi secara dinamis dari data.json -->
+            </select>
+
+            <label for="kemenangan">Jumlah Kemenangan:</label>
+            <input type="number" id="kemenangan" min="0" placeholder="Masukkan jumlah kemenangan">
+            <button id="submit-data">Simpan</button>
+            <button id="reset-data">Reset Statistik</button> <!-- Tombol Reset -->
+        </section>
+
+        <!-- Pilihan untuk memilih jumlah data yang ditampilkan pada grafik -->
+        <!-- Pilih Jumlah Data yang Ditampilkan -->
+<section id="select-data-section" style="display: none;">
+    <label for="data-count">Masukkan Jumlah Data yang Ditampilkan:</label>
+    <input type="number" id="data-count" min="1" placeholder="Masukkan jumlah data" />
+</section>
+
+
+        <!-- Grafik Statistik -->
+        <section class="chart-section" style="display: none;" id="chart-section">
+            <canvas id="chart-kmeans" width="600" height="300"></canvas>
+
+            <h2>Grafik Statistik Kemenangan</h2>
+            <p>
+                Grafik berikut menggambarkan jumlah kemenangan setiap atlet berdasarkan data yang telah dimasukkan. Grafik akan diperbarui setiap kali Anda menambahkan data baru.
+            </p>
+            <canvas id="chart-kmeans"></canvas>
+        </section>
+
+        <!-- Tabel Statistik -->
+        <section class="table-section" style="display: none;" id="table-section">
+            <h2>Data Statistik Atlet</h2>
+            <p>
+                Berikut adalah data statistik kemenangan atlet yang telah Anda input. Anda dapat menambahkan data baru kapan saja.
+            </p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nama Atlet</th>
+                        <th>Cabang Olahraga</th>
+                        <th>Jumlah Kemenangan</th>
+                    </tr>
+                </thead>
+                <tbody id="statistik-tabel">
+                    <!-- Data akan diisi saat pengguna memasukkan data -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Statistik Atlet Indonesia - Semua Hak Dilindungi</p>
+    </footer>
+
+    <script src="statistik.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</body>
+</html>

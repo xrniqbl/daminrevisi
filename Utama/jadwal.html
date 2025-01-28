@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jadwal Kegiatan & Atlet</title>
+    <link rel="stylesheet" href="jadwal.css"> <!-- Memanggil file CSS terpisah -->
+</head>
+<body>
+
+<div class="container">
+    <h1>Jadwal Kegiatan & Pilih Atlet</h1>
+
+    <p>Halaman ini digunakan untuk memilih atlet dan mencatat jadwal kegiatan yang akan datang. Anda dapat memilih atlet dan menambahkan jadwal baru melalui form di bawah.</p>
+
+    <!-- Form untuk memilih atlet -->
+    <div class="form-container">
+        <label for="atlet">Pilih Atlet:</label>
+        <select id="atlet" required>
+            <!-- Opsi atlet akan dimuat di sini -->
+        </select>
+    </div>
+
+    <form id="jadwal-form">
+        <label for="nama-kegiatan">Nama Kegiatan:</label>
+        <input type="text" id="nama-kegiatan" required placeholder="Masukkan Nama Kegiatan">
+
+        <label for="tanggal-kegiatan">Tanggal Kegiatan:</label>
+        <input type="date" id="tanggal-kegiatan" required>
+
+        <button type="submit">Tambah Jadwal</button>
+    </form>
+
+    <h2>Daftar Jadwal Kegiatan:</h2>
+    <table id="jadwal-table">
+        <thead>
+            <tr>
+                <th>Nama Kegiatan</th>
+                <th>Tanggal Kegiatan</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Jadwal kegiatan akan ditampilkan di sini -->
+        </tbody>
+    </table>
+</div>
+
+<script src="jadwal.js"></script>
+</body>
+</html>

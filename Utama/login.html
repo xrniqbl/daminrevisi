@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Atlet Jabar</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+
+    <div class="login-container">
+        <h1>Login</h1>
+        <form id="login-form">
+            <div class="input-group">
+                <label for="username">Username</label>
+                <input type="text" id="username" required placeholder="Masukkan Username">
+            </div>
+
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" required placeholder="Masukkan Password">
+            </div>
+
+            <button type="submit">Masuk</button>
+        </form>
+
+        <div class="additional-links">
+            <a href="javascript:void(0);" id="register-link">Daftar</a> | <a href="javascript:void(0);" id="forgot-password-link">Lupa Kata Sandi?</a>
+        </div>
+
+        <!-- Form Daftar -->
+        <div id="register-form" class="hidden">
+            <h2>Daftar Akun</h2>
+            <form id="register-form-action">
+                <div class="input-group">
+                    <label for="new-username">Username</label>
+                    <input type="text" id="new-username" required placeholder="Masukkan Username">
+                </div>
+                <div class="input-group">
+                    <label for="new-password">Password</label>
+                    <input type="password" id="new-password" required placeholder="Masukkan Password">
+                </div>
+                <button type="submit">Daftar</button>
+            </form>
+            <button id="back-to-login-register" class="back-button">Kembali ke Login</button>
+        </div>
+
+        <!-- Form Lupa Kata Sandi -->
+        <div id="forgot-password-form" class="hidden">
+            <h2>Lupa Kata Sandi</h2>
+            <form id="forgot-password-form-action">
+                <div class="input-group">
+                    <label for="forgot-username">Username</label>
+                    <input type="text" id="forgot-username" required placeholder="Masukkan Username">
+                </div>
+                <button type="submit">Kirim Link Reset</button>
+            </form>
+            <button id="back-to-login-forgot" class="back-button">Kembali ke Login</button>
+        </div>
+    </div>
+
+    <script src="login.js"></script>
+</body>
+</html>

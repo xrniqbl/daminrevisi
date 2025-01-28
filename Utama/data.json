@@ -1,0 +1,3666 @@
+[
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ANGGAR",
+        "nama_lengkap": "ANTON HILMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BALAP SEPEDA",
+        "nama_lengkap": "AYUSTINA DELIA PRIATNA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BALAP SEPEDA",
+        "nama_lengkap": "SOMANTRI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ZIDNEY F",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RAWAFI Y PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "NANDA DWI SAPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "JERRY RACHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BERKUDA",
+        "nama_lengkap": "JOJO JONATHAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "CLARITA ANTONIO SENJAYA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "KALEB RAMOT GEMILANG",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "RISKY FIDELANO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "LIA APRILIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "MOCH PHASA NURFAUZAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "PUTRI DWI MERDEKAWATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "BAGAS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FITRA AGUNG ADITYA PRATAMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "WILDA SITI NURFADILLAH S",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI RETNO MUTIARA LUTHFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOWLING",
+        "nama_lengkap": "ALISHA NABILA LARASATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NUNUNG TRI YULIANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "FERA DAMAYANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "RIANTINI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "WARINING RAHAYU",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "ASEP SUTISNA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "GREGORIA MARISKA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "UJANG HASBULLOH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "EDWIN GINANJAR RUDIANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "WILDAN NURUL GUFRON",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "NARAAJIE EMERALD RAMADHAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "RIBKA VANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "LISPA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "JUDO",
+        "nama_lengkap": "IKSAN APRIADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "HANIFAN YUDANI KUSUMAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "WEWEY WITA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "DINDA NUR ASMARANDANA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "BEBY WILLY EKA PAKSI TARIGAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MOCHAMMAD RAFI ALFARIZ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MUHAMMAD HAMID FIRDAUS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "ZAENAL ARIFIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "IVY NERNIE PRISCILLA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "RICKY ANGGA WIDJAYA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "BULDAN MUHAMMAD A.",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SEPAK BOLA",
+        "nama_lengkap": "FEBRI HARIYADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SKATEBOARD",
+        "nama_lengkap": "PEVI PERMANA PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "DIAN AGUSTINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "VINNY ANUGERAH DWI PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "SYEHAN HANA RAHMANA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "FEBINA FITRIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "GISZA GABRIELLA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "ILKA ARUNIA EMOGENE LISAPALY",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MAUDY WAFA NADIYAH",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MUHAMMAD NUR TASTAFTYAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "ANDI HASANUDIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "AGUNG WILANT",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TAEKWONDO",
+        "nama_lengkap": "RACHMANIA GUNAWAN PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS LAPANG",
+        "nama_lengkap": "JOLETA BUDIMAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2018
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "GREGORIA MARISKA TUNJUNG",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BALAP SEPEDA",
+        "nama_lengkap": "AYUSTINA DELIA PRIATNA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "FAHMIDYAN ZIDNEY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "JERRY RACHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "NANDA DWISAPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RACHMAN JERRY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RAWAFI Y PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ROZALI RAWAFI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "SHURIANTO LUTFI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "YANA GERHANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ZIDNEY F",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "CLARITA ANTONIO SENJAYA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "JUAN LAUREN KOKODI PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "KALEB RAMOT GEMILANG",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "BAGAS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FIDELANO RIZKY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FITRA AGUNG ADITYA PRATAMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "LIA APRILIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "MOCH PHASA NURFAUZAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "PUTRI DWI MERDEKAWATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "RISKY FIDELANO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "AGUSTIN WULANDARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "APRILIA MANGANANG",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "SHELLA ONNAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TISYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI LUTFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI RETNO MUTIARA LUTHFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "WILDA SITI NURFADILLAH S",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLING",
+        "nama_lengkap": "ALISHA NABILA LARASATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLING",
+        "nama_lengkap": "NADIA PRAMANIK NURAMALINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "FERA DAMAYANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NETTIN ERINDA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NUNUNG TRI YULIANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "RIANTINI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "EDWIN GINANJAR RUDIANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "UJANG HASBULLOH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "FLOORBALL",
+        "nama_lengkap": "MONIKA APRIANA SIMARMATA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "ALMAY RAYHAN YAQUTA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "NARAAJIE EMERALD RAMADHANPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "RIBKA VANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "AIMELIS KUSMIATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "CITRA PURBASARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "EFENDI TOMI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "LISPA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NUGRAHA FAJAR",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NURAINI SUGIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "PRAWESTI CANDRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "RAHMA AULIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "REVO PRILIANDRO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "SANTOSO PRIMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ICE SKATING",
+        "nama_lengkap": "IVANO UTOMO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ICE SKATING",
+        "nama_lengkap": "TASYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "JUDO",
+        "nama_lengkap": "IKSAN APRIADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "MENEMBAK",
+        "nama_lengkap": "OKTAFIN RARUN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "MODERN PENTATLON",
+        "nama_lengkap": "MUHAMMAD TAUFIK",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "ANGGI FAISAL MUBAROK",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "HANIFAN YUDANI KUSUMAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "BEBY WILLY PAKSI TARIGAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "DINDA NUR ASMARANDANA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "HANNA FIRDAUS",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "INEZ FEBRIANTI RASYID",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "IVY NERNIE",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MELVIANI RAYINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MOCHAMMAD RAFI ALFARIZ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MUHAMMAD HAMID FIRDAUS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "UPIET SARIMANAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "ZAENAL ARIFIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "RICKY ANGGA WIDJAYA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "TRIADY FAUZI SIDIQ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "BULDAN MUHAMMAD A.",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "FAJAR ILHAM",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SEPAK BOLA",
+        "nama_lengkap": "FEBRI HARIYADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SKATEBOARDING",
+        "nama_lengkap": "PEVI PERMANA PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFT TENNIS",
+        "nama_lengkap": "ALEXANDER ALBERT SIE",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "DIAN AGUSTINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "FEBINA FITRIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "GISZA GABRIELLA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "ILKA ARUNIA EMOGENE LISAPALY",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "MUHAMMAD NAUFAL RAHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "SYEHAN HANA RAHMANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "VINNY ANUGERAH DWI PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "AGUNG WILANT",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "ANDI HASANUDIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MAUDY WAFA NADIYAH",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MUHAMMAD NUR TASTAFTYAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TAEKWONDO",
+        "nama_lengkap": "RACHMANIA GUNAWAN PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS",
+        "nama_lengkap": "JOLETA BUDIMAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS",
+        "nama_lengkap": "RIFANTY KAHFIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "WUSHU",
+        "nama_lengkap": "ADE PERMANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2019
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "GREGORIA MARISKA TUNJUNG",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BALAP SEPEDA",
+        "nama_lengkap": "AYUSTINA DELIA PRIATNA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "FAHMIDYAN ZIDNEY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "JERRY RACHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "NANDA DWISAPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RACHMAN JERRY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RAWAFI Y PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ROZALI RAWAFI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "SHURIANTO LUTFI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "YANA GERHANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ZIDNEY F",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "CLARITA ANTONIO SENJAYA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "JUAN LAUREN KOKODI PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "KALEB RAMOT GEMILANG",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "BAGAS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FIDELANO RIZKY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FITRA AGUNG ADITYA PRATAMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "LIA APRILIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "MOCH PHASA NURFAUZAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "PUTRI DWI MERDEKAWATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "RISKY FIDELANO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "AGUSTIN WULANDARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "APRILIA MANGANANG",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "SHELLA ONNAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TISYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI LUTFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI RETNO MUTIARA LUTHFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "WILDA SITI NURFADILLAH S",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLING",
+        "nama_lengkap": "ALISHA NABILA LARASATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLING",
+        "nama_lengkap": "NADIA PRAMANIK NURAMALINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "FERA DAMAYANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NETTIN ERINDA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NUNUNG TRI YULIANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "RIANTINI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "EDWIN GINANJAR RUDIANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "UJANG HASBULLOH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "FLOORBALL",
+        "nama_lengkap": "MONIKA APRIANA SIMARMATA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "ALMAY RAYHAN YAQUTA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "NARAAJIE EMERALD RAMADHANPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "RIBKA VANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "AIMELIS KUSMIATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "CITRA PURBASARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "EFENDI TOMI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "LISPA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NUGRAHA FAJAR",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NURAINI SUGIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "PRAWESTI CANDRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "RAHMA AULIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "REVO PRILIANDRO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "SANTOSO PRIMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ICE SKATING",
+        "nama_lengkap": "IVANO UTOMO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ICE SKATING",
+        "nama_lengkap": "TASYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "JUDO",
+        "nama_lengkap": "IKSAN APRIADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "MENEMBAK",
+        "nama_lengkap": "OKTAFIN RARUN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "MODERN PENTATLON",
+        "nama_lengkap": "MUHAMMAD TAUFIK",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "ANGGI FAISAL MUBAROK",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "HANIFAN YUDANI KUSUMAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "BEBY WILLY PAKSI TARIGAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "DINDA NUR ASMARANDANA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "HANNA FIRDAUS",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "INEZ FEBRIANTI RASYID",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "IVY NERNIE",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MELVIANI RAYINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MOCHAMMAD RAFI ALFARIZ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MUHAMMAD HAMID FIRDAUS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "UPIET SARIMANAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "ZAENAL ARIFIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "RICKY ANGGA WIDJAYA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "TRIADY FAUZI SIDIQ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "BULDAN MUHAMMAD A.",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "FAJAR ILHAM",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SEPAK BOLA",
+        "nama_lengkap": "FEBRI HARIYADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SKATEBOARDING",
+        "nama_lengkap": "PEVI PERMANA PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFT TENNIS",
+        "nama_lengkap": "ALEXANDER ALBERT SIE",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "DIAN AGUSTINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "FEBINA FITRIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "GISZA GABRIELLA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "ILKA ARUNIA EMOGENE LISAPALY",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "MUHAMMAD NAUFAL RAHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "SYEHAN HANA RAHMANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "VINNY ANUGERAH DWI PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "AGUNG WILANT",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "ANDI HASANUDIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MAUDY WAFA NADIYAH",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MUHAMMAD NUR TASTAFTYAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TAEKWONDO",
+        "nama_lengkap": "RACHMANIA GUNAWAN PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS",
+        "nama_lengkap": "JOLETA BUDIMAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS",
+        "nama_lengkap": "RIFANTY KAHFIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "WUSHU",
+        "nama_lengkap": "ADE PERMANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2020
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "GREGORIA MARISKA TUNJUNG",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BALAP SEPEDA",
+        "nama_lengkap": "AYUSTINA DELIA PRIATNA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "FAHMIDYAN ZIDNEY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "JERRY RACHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "NANDA DWISAPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RACHMAN JERRY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RAWAFI Y PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ROZALI RAWAFI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "SHURIANTO LUTFI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "YANA GERHANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ZIDNEY F",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "CLARITA ANTONIO SENJAYA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "JUAN LAUREN KOKODI PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "KALEB RAMOT GEMILANG",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "BAGAS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FIDELANO RIZKY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FITRA AGUNG ADITYA PRATAMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "LIA APRILIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "MOCH PHASA NURFAUZAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "PUTRI DWI MERDEKAWATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "RISKY FIDELANO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "AGUSTIN WULANDARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "APRILIA MANGANANG",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "SHELLA ONNAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TISYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI LUTFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI RETNO MUTIARA LUTHFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "WILDA SITI NURFADILLAH S",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLING",
+        "nama_lengkap": "ALISHA NABILA LARASATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLING",
+        "nama_lengkap": "NADIA PRAMANIK NURAMALINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "FERA DAMAYANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NETTIN ERINDA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NUNUNG TRI YULIANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "RIANTINI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "EDWIN GINANJAR RUDIANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "UJANG HASBULLOH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "FLOORBALL",
+        "nama_lengkap": "MONIKA APRIANA SIMARMATA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "ALMAY RAYHAN YAQUTA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "NARAAJIE EMERALD RAMADHANPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "RIBKA VANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "AIMELIS KUSMIATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "CITRA PURBASARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "EFENDI TOMI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "LISPA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NUGRAHA FAJAR",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NURAINI SUGIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "PRAWESTI CANDRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "RAHMA AULIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "REVO PRILIANDRO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "SANTOSO PRIMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ICE SKATING",
+        "nama_lengkap": "IVANO UTOMO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ICE SKATING",
+        "nama_lengkap": "TASYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "JUDO",
+        "nama_lengkap": "IKSAN APRIADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "MENEMBAK",
+        "nama_lengkap": "OKTAFIN RARUN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "MODERN PENTATLON",
+        "nama_lengkap": "MUHAMMAD TAUFIK",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "ANGGI FAISAL MUBAROK",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "HANIFAN YUDANI KUSUMAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "BEBY WILLY PAKSI TARIGAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "DINDA NUR ASMARANDANA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "HANNA FIRDAUS",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "INEZ FEBRIANTI RASYID",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "IVY NERNIE",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MELVIANI RAYINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MOCHAMMAD RAFI ALFARIZ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MUHAMMAD HAMID FIRDAUS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "UPIET SARIMANAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "ZAENAL ARIFIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "RICKY ANGGA WIDJAYA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "TRIADY FAUZI SIDIQ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "BULDAN MUHAMMAD A.",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "FAJAR ILHAM",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SEPAK BOLA",
+        "nama_lengkap": "FEBRI HARIYADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SKATEBOARDING",
+        "nama_lengkap": "PEVI PERMANA PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFT TENNIS",
+        "nama_lengkap": "ALEXANDER ALBERT SIE",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "DIAN AGUSTINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "FEBINA FITRIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "GISZA GABRIELLA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "ILKA ARUNIA EMOGENE LISAPALY",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "MUHAMMAD NAUFAL RAHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "SYEHAN HANA RAHMANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "VINNY ANUGERAH DWI PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "AGUNG WILANT",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "ANDI HASANUDIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MAUDY WAFA NADIYAH",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MUHAMMAD NUR TASTAFTYAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TAEKWONDO",
+        "nama_lengkap": "RACHMANIA GUNAWAN PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS",
+        "nama_lengkap": "JOLETA BUDIMAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS",
+        "nama_lengkap": "RIFANTY KAHFIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "WUSHU",
+        "nama_lengkap": "ADE PERMANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2021
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "GREGORIA MARISKA TUNJUNG",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BALAP SEPEDA",
+        "nama_lengkap": "AYUSTINA DELIA PRIATNA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "FAHMIDYAN ZIDNEY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "JERRY RACHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "NANDA DWISAPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RACHMAN JERRY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "RAWAFI Y PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ROZALI RAWAFI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "SHURIANTO LUTFI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "YANA GERHANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BASEBALL",
+        "nama_lengkap": "ZIDNEY F",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "CLARITA ANTONIO SENJAYA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "JUAN LAUREN KOKODI PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "KALEB RAMOT GEMILANG",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "BAGAS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FIDELANO RIZKY",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "FITRA AGUNG ADITYA PRATAMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "LIA APRILIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "MOCH PHASA NURFAUZAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "PUTRI DWI MERDEKAWATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA TANGAN",
+        "nama_lengkap": "RISKY FIDELANO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "AGUSTIN WULANDARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "APRILIA MANGANANG",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "SHELLA ONNAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TISYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI LUTFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TRI RETNO MUTIARA LUTHFI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "WILDA SITI NURFADILLAH S",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLING",
+        "nama_lengkap": "ALISHA NABILA LARASATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLING",
+        "nama_lengkap": "NADIA PRAMANIK NURAMALINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "FERA DAMAYANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NETTIN ERINDA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "NUNUNG TRI YULIANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BRIDGE",
+        "nama_lengkap": "RIANTINI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "EDWIN GINANJAR RUDIANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "UJANG HASBULLOH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "FLOORBALL",
+        "nama_lengkap": "MONIKA APRIANA SIMARMATA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "ALMAY RAYHAN YAQUTA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "NARAAJIE EMERALD RAMADHANPUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOLF",
+        "nama_lengkap": "RIBKA VANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "AIMELIS KUSMIATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "CITRA PURBASARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "EFENDI TOMI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "LISPA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NUGRAHA FAJAR",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NURAINI SUGIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "PRAWESTI CANDRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "RAHMA AULIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "REVO PRILIANDRO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "SANTOSO PRIMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ICE SKATING",
+        "nama_lengkap": "IVANO UTOMO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ICE SKATING",
+        "nama_lengkap": "TASYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "JUDO",
+        "nama_lengkap": "IKSAN APRIADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "MENEMBAK",
+        "nama_lengkap": "OKTAFIN RARUN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "MODERN PENTATLON",
+        "nama_lengkap": "MUHAMMAD TAUFIK",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "ANGGI FAISAL MUBAROK",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "HANIFAN YUDANI KUSUMAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "BEBY WILLY PAKSI TARIGAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "DINDA NUR ASMARANDANA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "HANNA FIRDAUS",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "INEZ FEBRIANTI RASYID",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "IVY NERNIE",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MELVIANI RAYINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MOCHAMMAD RAFI ALFARIZ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "MUHAMMAD HAMID FIRDAUS",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "UPIET SARIMANAH",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "ZAENAL ARIFIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "RICKY ANGGA WIDJAYA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RENANG",
+        "nama_lengkap": "TRIADY FAUZI SIDIQ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "BULDAN MUHAMMAD A.",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "RUGBY",
+        "nama_lengkap": "FAJAR ILHAM",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SEPAK BOLA",
+        "nama_lengkap": "FEBRI HARIYADI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SKATEBOARDING",
+        "nama_lengkap": "PEVI PERMANA PUTRA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFT TENNIS",
+        "nama_lengkap": "ALEXANDER ALBERT SIE",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "DIAN AGUSTINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "FEBINA FITRIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "GISZA GABRIELLA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "ILKA ARUNIA EMOGENE LISAPALY",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "MUHAMMAD NAUFAL RAHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "SYEHAN HANA RAHMANIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SOFTBALL",
+        "nama_lengkap": "VINNY ANUGERAH DWI PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "AGUNG WILANT",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "ANDI HASANUDIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MAUDY WAFA NADIYAH",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SQUASH",
+        "nama_lengkap": "MUHAMMAD NUR TASTAFTYAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TAEKWONDO",
+        "nama_lengkap": "RACHMANIA GUNAWAN PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS",
+        "nama_lengkap": "JOLETA BUDIMAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS",
+        "nama_lengkap": "RIFANTY KAHFIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "WUSHU",
+        "nama_lengkap": "ADE PERMANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2022
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BLIND JUDO",
+        "nama_lengkap": "BAYU PANGESTU AJI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BLIND JUDO",
+        "nama_lengkap": "ELDA FAHMI NUR TAUFIQ",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOALBALL",
+        "nama_lengkap": "BAHRUL SAPAAT",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "GOALBALL",
+        "nama_lengkap": "MUHAMAD YOGI PRAYOGA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "WARINING RAHAYU",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "CATUR",
+        "nama_lengkap": "INDRA YOGA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "CATUR",
+        "nama_lengkap": "YADI SOPIAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ANGKAT BERAT",
+        "nama_lengkap": "SHEBRIONI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TENIS MEJA",
+        "nama_lengkap": "CAHYO PAMBUDI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SITTING VOLLEYBALL",
+        "nama_lengkap": "ANTON HILMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SITTING VOLLEYBALL",
+        "nama_lengkap": "CAHYANA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SITTING VOLLEYBALL",
+        "nama_lengkap": "DIAH DWIYANTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SITTING VOLLEYBALL",
+        "nama_lengkap": "NIA RAMADANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SITTING VOLLEYBALL",
+        "nama_lengkap": "SANTI APRILIANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "DAYUNG",
+        "nama_lengkap": "RIFQI HARIST TAUFIQURAHMAN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA BASKET",
+        "nama_lengkap": "CLARITA ANTONIO",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "AMALLIA CAHAYA PRATIWI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BULUTANGKIS",
+        "nama_lengkap": "MUHAMMAD SOHIBUL FIKRI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "E-SPORT",
+        "nama_lengkap": "KAUTSAR FARUQROHMAN EKATAMA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "E-SPORT",
+        "nama_lengkap": "RIDDHO PUTRA MUHARAM",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SELAM",
+        "nama_lengkap": "OZA FEBY MULYANI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "AI MELIS KUSMIATI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "CANDRA JULI PRAWESTI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "CITRA PURBASARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "NURAINI SUGIARTI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "PRIMA RINALDI SANTOSO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "RAHMA DWI AULIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "REVO PRILIANDRO",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "HOKI",
+        "nama_lengkap": "LISPA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "KUN BOKATOR",
+        "nama_lengkap": "ADE PERMANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "OBSTACLE RACE",
+        "nama_lengkap": "PUTRA WALUYU NURYAYI",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "PENCAK SILAT",
+        "nama_lengkap": "BAYU LESMANA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "SEPAK BOLA",
+        "nama_lengkap": "BECKHAM PUTRA NUGRAHA",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "TAEKWONDO",
+        "nama_lengkap": "MEGAWATI TAMESTI MAHESWARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "AGUSTIN WULANDHARI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "AULIA SUCI NURFADILA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "FARHAN HALIM",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "SHINTIA ALLIVA MAULUDINA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "TISYA AMALLYA PUTRI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "BOLA VOLI INDOOR",
+        "nama_lengkap": "WILDA SITI NURFADHILAH SUGANDI",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "AENAH AELIYAH PURBANINGRUM",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "BEBY WILLY EKAPAKSI TARIGAN",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "NAZWA NUR ABELLIA",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "SELFIA NUR FITROCH",
+        "jenis_kelamin": "PEREMPUAN",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "POLO AIR",
+        "nama_lengkap": "ZAENAL ARIFIN",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    },
+    {
+        "nama_provinsi": "JAWA BARAT",
+        "nama_kabupaten_kota": "KOTA BANDUNG",
+        "cabang_olahraga": "ATLETIK",
+        "nama_lengkap": "DEWANGGA KANAHAYA ISKANDAR",
+        "jenis_kelamin": "LAKI-LAKI",
+        "tahun": 2023
+    }
+]

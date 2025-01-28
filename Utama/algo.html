@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualisasi K-Means Clustering</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        header {
+            background-color: #0056b3;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 1.8rem;
+        }
+
+        main {
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        canvas {
+            max-width: 100%;
+            margin: 2rem 0;
+        }
+
+        .description {
+            max-width: 600px;
+            text-align: center;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 1.5rem;
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #0056b3;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Visualisasi K-Means Clustering</h1>
+    </header>
+    <main>
+        <div class="description">
+            <p>Halaman ini digunakan untuk memvisualisasikan hasil algoritma K-Means Clustering. 
+               Algoritma ini berguna untuk mengelompokkan data ke dalam beberapa cluster berdasarkan kedekatan nilai koordinatnya. 
+               Visualisasi ini membantu dalam memahami pola atau struktur yang ada pada data.</p>
+        </div>
+        <canvas id="chart-kmeans" width="400" height="400"></canvas>
+    </main>
+    <footer>
+        <p>© 2025 Visualisasi K-Means Clustering. Dibuat untuk keperluan edukasi.</p>
+    </footer>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const dataPoints = [
+                { x: 5, y: 3 },
+                { x: 10, y: 15 },
+                { x: 15, y: 12 },
+                { x: 24, y: 10 },
+                { x: 30, y: 45 },
+                { x: 85, y: 70 },
+                { x: 71, y: 80 },
+                { x: 60, y: 78 },
+                { x: 55, y: 52 },
+                { x: 80, y: 91 }
+            ];
+
+            const kMeansResult = performKMeans(dataPoints, 2);
+
+            const ctx = document.getElementById("chart-kmeans").getContext("2d");
+            const chartData = {
+                datasets: [
+                    {
+                        label: "Cluster 1",
+                        data: kMeansResult.cluster1.map(point => ({ x: point.x, y: point.y })),
+                        backgroundColor: "rgba(255, 99, 132, 0.6)"
+                    },
+                    {
+                        label: "Cluster 2",
+                        data: kMeansResult.cluster2.map(point => ({ x: point.x, y: point.y })),
+                        backgroundColor: "rgba(54, 162, 235, 0.6)"
+                    }
+                ]
+            };
+
+            new Chart(ctx, {
+                type: "scatter",
+                data: chartData,
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { position: "top" }
+                    },
+                    scales: {
+                        x: { beginAtZero: true },
+                        y: { beginAtZero: true }
+                    }
+                }
+            });
+
+            function performKMeans(data, k) {
+                const centroids = initializeCentroids(data, k);
+                const cluster1 = [];
+                const cluster2 = [];
+
+                data.forEach(point => {
+                    const distanceToCentroid1 = getDistance(point, centroids[0]);
+                    const distanceToCentroid2 = getDistance(point, centroids[1]);
+
+                    if (distanceToCentroid1 < distanceToCentroid2) {
+                        cluster1.push(point);
+                    } else {
+                        cluster2.push(point);
+                    }
+                });
+
+                return { cluster1, cluster2 };
+            }
+
+            function initializeCentroids(data, k) {
+                return data.slice(0, k);
+            }
+
+            function getDistance(point1, point2) {
+                return Math.sqrt((point1.x - point2.x) ** 2 + (point1.y - point2.y) ** 2);
+            }
+        });
+
+        document.addEventListener("DOMContentLoaded", () => {
+    // Cek apakah pengguna sudah login
+    if (!localStorage.getItem("loggedInUser")) {
+        alert("Anda harus login terlebih dahulu untuk mengakses halaman ini.");
+        window.location.href = "login.html"; // Redirect ke halaman login
+    }
+});
+
+    </script>
+</body>
+</html>

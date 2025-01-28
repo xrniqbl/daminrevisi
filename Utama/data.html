@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daftar Atlet Internasional</title>
+    <link rel="stylesheet" href="data.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Daftar Atlet Internasional di Kota Bandung</h1>
+        <div class="search-sort">
+            <input type="text" id="search" placeholder="Cari nama atlet atau cabang olahraga">
+            <select id="sort">
+                <option value="">Urutkan Berdasarkan</option>
+                <option value="nama_provinsi">Nama Provinsi</option>
+                <option value="nama_kabupaten_kota">Nama Kabupaten/Kota</option>
+                <option value="cabang_olahraga">Cabang Olahraga</option>
+                <option value="nama_lengkap">Nama Lengkap</option>
+                <option value="tahun">Tahun</option>
+            </select>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nama Provinsi</th>
+                    <th>Nama Kabupaten/Kota</th>
+                    <th>Cabang Olahraga</th>
+                    <th>Nama Lengkap</th>
+                    <th>Jenis Kelamin</th>
+                    <th>Tahun</th>
+                </tr>
+            </thead>
+            <tbody id="data-table">
+                <!-- Data akan diisi melalui JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Tombol Logout -->
+    <button id="logout-button" onclick="logout()">Logout</button>
+
+    <!-- Script -->
+    <script src="data.js"></script>
+    <script>
+        // Fungsi Logout
+        function logout() {
+            localStorage.removeItem("isLoggedIn");
+            window.location.href = "/Utama/index.html";
+        }
+
+        // Tambahkan event listener pada tombol logout
+        document.getElementById("logoutButton").addEventListener("click", logout);
+    </script>
+</body>
+</html>

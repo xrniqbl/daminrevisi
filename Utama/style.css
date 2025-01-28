@@ -1,0 +1,196 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    padding-top: 50px; /* Menghindari konten tertutup navbar */
+}
+
+/* Navbar */
+nav {
+    background-color: #0056b3;
+    padding: 10px 0; /* Kurangi padding agar navbar tidak terlalu tinggi */
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center; /* Membuat menu sejajar di tengah */
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px; /* Memberi jarak antar menu */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px; /* Kurangi ukuran font */
+    font-weight: bold;
+    padding: 8px 12px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main Header */
+.main-header {
+    text-align: center;
+    padding: 80px 20px; /* Kurangi padding agar lebih proporsional */
+    background-color: #fff;
+    margin-top: 50px; /* Sesuaikan dengan tinggi navbar */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hero h1 {
+    font-size: 36px; /* Kurangi ukuran font */
+    color: #333;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #555;
+    margin: 20px 0;
+}
+
+/* Section Deskripsi */
+.description {
+    padding: 30px 20px;
+    background-color: #fff;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left; /* Pastikan teks rata kiri */
+    display: block; /* Hapus flex agar tidak mempengaruhi align */
+    max-width: 800px; /* Opsional: batasi lebar agar lebih enak dibaca */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: left; /* Pastikan judul juga rata kiri */
+}
+
+.description p, 
+.description ul {
+    font-size: 16px;
+    color: #555;
+    text-align: left; /* Pastikan semua teks termasuk daftar rata kiri */
+}
+
+.description ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+/* Tombol CTA */
+.cta {
+    margin-top: 30px;
+}
+
+.cta-btn {
+    background-color: #0056b3;
+    padding: 12px 24px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.cta-btn a {
+    color: white;
+    text-decoration: none;
+}
+
+.cta-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Gambar Atlet */
+.athlete-image {
+    margin-top: 40px;
+}
+
+.athlete-image img {
+    width: 80%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Tombol Login */
+#login-link {
+    display: inline-block;
+    background-color: #0056b3;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+#login-link:hover {
+    background-color: #0056b3;
+}
+
+/* Tombol Logout */
+#logout-link {
+    display: inline-block;
+    background-color: #dc3545;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#logout-link:hover {
+    background-color: #c82333;
+}
+
+/* Layout Hero Section */
+.main-header .hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-header .hero h1 {
+    margin-bottom: 15px;
+}
+
+.main-header .hero p {
+    text-align: center;
+    margin-top: 10px;
+    max-width: 800px;
+}
+
+/* Pusatkan Konten */
+.description, .cta {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

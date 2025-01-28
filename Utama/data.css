@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.search-sort {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+input#search {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+select#sort {
+    width: 28%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #0056b3;
+    color: white;
+}
+
+th, td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Gaya umum untuk semua perangkat */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #0056b3;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  /* Tambahkan media queries di bagian bawah */
+  @media (max-width: 768px) {
+    body {
+      font-size: 14px; /* Sesuaikan ukuran font */
+    }
+  
+    table {
+      width: 100%; /* Buat tabel memenuhi layar */
+    }
+  
+    th, td {
+      font-size: 12px;
+      padding: 5px; /* Sesuaikan jarak sel tabel */
+    }
+  
+    header {
+      font-size: 18px; /* Ubah ukuran font header */
+      padding: 5px; /* Sesuaikan padding */
+    }
+  }
+
+  .navigation {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+  
+  #logout-button {
+    position: fixed; /* Tetap di posisi yang sama saat scrolling */
+    top: 10px;       /* Jarak dari atas */
+    right: 10px;     /* Jarak dari kanan */
+    padding: 10px 20px;
+    background-color: #0056b3; /* Warna tombol */
+    color: white;    /* Warna teks */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #logout-button:hover {
+    background-color: #0056b3; /* Warna tombol saat hover */
+  }
+
+  #logout-button {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
